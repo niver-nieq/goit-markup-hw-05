@@ -96,6 +96,13 @@ header {
 }
 
 .icons-header1 {
+    Width: 16px;
+    Height: 12px;
+    margin-right: 10px;
+    padding: 0px;
+}
+
+.icons-header2 {
     Width: 10px;
     Height: 16px;
     margin-right: 10px;
@@ -105,7 +112,9 @@ header {
 .email:hover,
 .contacto:hover,
 .email:focus,
-.contacto:focus {
+.contacto:focus,
+.email1:hover,
+.email1:focus {
     fill: #2196F3;
 }
 
